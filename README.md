@@ -1,4 +1,4 @@
-![MasterHead](http://www.makrocell.com/img/slider/barkod-sistemleri.jpg)
+![MasterHead](https://www.barkodsis.com/assets/images/resource/barkod-sistemi-2.jpg)
 <h1 align="center">Hi 👋, I'm MakroCell</h1>
 <h3 align="center">A passionate software company from Türkiye</h3>
 
